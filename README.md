@@ -1,1 +1,2 @@
-SimpleTicTacToe by Jona in 1h 12min
+# JoinLeaveEdit <br><br>
+coded in 1h12min with 😰 by JonaHD345
